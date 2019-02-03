@@ -2,7 +2,7 @@
 name: New Quote
 about: Propose a new ridiculous quote
 title: "[NEW]: {{your quote here, snip it if needed}}"
-labels: ''
+labels: new quote
 assignees: MaxMuehlbauer
 
 ---
