@@ -21,9 +21,11 @@ In the `list.json` you will find all messages. Each entry consists of:
 ## Anonymity 
 The quotes shall not contain personal information. However, replacing a name with "XYZ" isn't funny. That's why you will find random, imaginary names in the quotes.
 
-## Contributing
-### Add a quote 
-You found a quote? No problem, just send in a pull request, in that you have added it to the `list.json`. Please make sure that there is no personally identifiable information in any of your commits. If the language of the quote isn't English or German I cannot make sure, that it's ridiculous. You will depend on other people voting for your PR.
+## Contributing) 
+### Vote on quotes
+As soon as a quote gets at least three +1 👍 (and less -1 👎) it will get into the list. So you are kindly asked to vote on new issues by adding a reaction to it.
 
-### Report an issue
-Please file an issue in case you find a typo - or whatever else bothers you. If you want to be extra nice, also make a pull request.
+### Add a quote 
+You found a quote? Great!
+
+All you have to do is create a new issue. There's even a template "New Quote" you can use. If you want to be extra nice, submit a pull request as well.
