@@ -21,7 +21,7 @@ In the `list.json` you will find all messages. Each entry consists of:
 ## Anonymity 
 The quotes shall not contain personal information. However, replacing a name with "XYZ" isn't funny. That's why you will find random, imaginary names in the quotes.
 
-## Contributing) 
+## Contributing
 ### Vote on quotes
 As soon as a quote gets at least three +1 👍 (and less -1 👎) it will get into the list. So you are kindly asked to vote on new issues by adding a reaction to it. Find all open votings here: https://github.com/MaxMuehlbauer/HeadHunterMadness/labels/new%20quote
 
