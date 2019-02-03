@@ -23,9 +23,12 @@ The quotes shall not contain personal information. However, replacing a name wit
 
 ## Contributing) 
 ### Vote on quotes
-As soon as a quote gets at least three +1 👍 (and less -1 👎) it will get into the list. So you are kindly asked to vote on new issues by adding a reaction to it.
+As soon as a quote gets at least three +1 👍 (and less -1 👎) it will get into the list. So you are kindly asked to vote on new issues by adding a reaction to it. Find all open votings here: https://github.com/MaxMuehlbauer/HeadHunterMadness/labels/new%20quote
 
 ### Add a quote 
 You found a quote? Great!
 
 All you have to do is create a new issue. There's even a template "New Quote" you can use. If you want to be extra nice, submit a pull request as well.
+
+### Something different
+Just go ahead and submit an issue.
