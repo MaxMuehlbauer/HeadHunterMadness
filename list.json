@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "quote": "Code in Sicht! An Bord der JS Frontend erobern Sie die sieben Webmeere.",
+      "language": ["de"],
+      "source": "XING"
+    },
+    {
+      "quote": "Hey… ab in den Süden, den Frontends hinterheeheeheher!",
+      "language": ["de"],
+      "source": "XING"
+    },
+    {
+      "quote": "Heiße Vakanz für kalte Tage :)",
+      "language": ["de"],
+      "source": "XING"
+    },
+    {
+      "quote": "In Essen schmecken die Frontends!",
+      "language": ["de"],
+      "source": "XING"
+    },
+    {
+      "quote": "404 Frontend Developer",
+      "language": ["en"],
+      "source": "XING"
+    },
+    {
+      "quote": "if(Job === \"interesting\") { alert('zurückschreiben'); };",
+      "language": ["en", "de"],
+      "source": "XING"
+    },
+    {
+      "quote": "Job.Check(if(happiness == true; add contact; else (urgent.read.message))",
+      "language": ["en"],
+      "source": "XING"
+    },
+    {
+      "quote": "Dicke Frontend-Fische an Ihrer Angular.",
+      "language": ["de"],
+      "source": "LinkedIn"
+    }
+  ]
+}
