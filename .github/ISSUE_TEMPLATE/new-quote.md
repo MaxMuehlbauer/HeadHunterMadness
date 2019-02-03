@@ -13,12 +13,13 @@ assignees: MaxMuehlbauer
 
 ```
 {
-  quote: "{{insert your full quote, again}}",
-  language: ["{{the language(s) in the quote}}"],
-  source: "{{the site, you got the quote from}}"
+  "quote": "{{insert your full quote, again}}",
+  "language": ["{{the language(s) in the quote}}"],
+  "source": "{{the site, you got the quote from}}"
 }
 ```
 
 - [ ] 🎢 I think this quote is truly ridiculous
+- [ ] 📜 I checked, that the quote isn't in the list already
 - [ ] 🐱‍👤 I removed all personally identifiable information from the quote
 - [ ] 🚨 I know, that I will be held personally responsible, if I had lied at the previous statement
