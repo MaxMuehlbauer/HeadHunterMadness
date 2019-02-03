@@ -12,9 +12,9 @@ As a developer you might get messages from head hunter as well. Sometimes their 
 In the `list.json` you will find all messages. Each entry consists of:
 ```
 {
-  quote: "The ridiculous quote",
-  language: ["en", "de"], // always an array, even if it's just one
-  source: "LinkedIn", // a source, where the quote was found
+  "quote": "The ridiculous quote",
+  "language": ["en", "de"], // always an array, even if it's just one
+  "source": "LinkedIn", // a source, where the quote was found
 }
 ```
 
